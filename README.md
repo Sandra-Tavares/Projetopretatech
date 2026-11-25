@@ -1,3 +1,22 @@
+# Banco de Talentos — Educafro Brasil / Preta Tech
+
+## Visão geral
+
+Projeto colaborativo de inclusão e empregabilidade, com proposta de cadastro de talentos, busca de candidatos e acompanhamento de competências.
+
+## Estrutura técnica
+
+- `app/`: código da aplicação.
+- `migrations/`: migrações.
+- `run.py`: ponto de entrada que importa `create_app`.
+- `requirements.txt`: dependências Python, incluindo Flask, Flask-SQLAlchemy, Flask-Migrate, Pandas e Plotly.
+
+## Preparação do ambiente
+
+Crie um ambiente virtual Python e instale as dependências com `python -m pip install -r requirements.txt`. Revise a configuração da aplicação e do banco antes de executar `python run.py`. A instalação e as funcionalidades não foram testadas.
+
+## Documentação original e créditos da equipe
+
 # Projeto Banco de Talentos
 
 ## Descrição do Projeto
